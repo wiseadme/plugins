@@ -1,0 +1,1 @@
+const e={key:"v-650219e0",path:"/api-reference/",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"mikob",email:"492864+mikob@users.noreply.github.com",commits:1}]},filePathRelative:"api-reference/README.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-a0416e66",path:"/recipes.html",title:"Recipes",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Cross-tab Communication",slug:"cross-tab-communication",children:[]}],git:{contributors:[{name:"mikob",email:"492864+mikob@users.noreply.github.com",commits:2}]},filePathRelative:"recipes.md"};export{e as data};

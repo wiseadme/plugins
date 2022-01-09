@@ -1,0 +1,1 @@
+const e={key:"v-769a7c2c",path:"/plugin-level-settings.html",title:"Plugin-level Settings",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"mikob",email:"492864+mikob@users.noreply.github.com",commits:2}]},filePathRelative:"plugin-level-settings.md"};export{e as data};

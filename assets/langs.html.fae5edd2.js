@@ -1,0 +1,1 @@
+const e={key:"v-814c7126",path:"/langs.html",title:"Internationalization",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],git:{contributors:[{name:"mikob",email:"492864+mikob@users.noreply.github.com",commits:2}]},filePathRelative:"langs.md"};export{e as data};
